@@ -1,5 +1,5 @@
 /**
- * Created by Boran1 on 11.4.2016.
+ * Created by Boran1 on 27.3.2016.
  */
 public class SOS {
     public static final int INVALID_ROWCOL = -1;
